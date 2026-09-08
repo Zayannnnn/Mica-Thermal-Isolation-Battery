@@ -43,7 +43,7 @@ The repository contains the five project images used to document the CAD model, 
 
 ### 2. ANSYS Model / Setup
 
-![ANSYS battery thermal model setup](<Screenshot 2026-08-19 082915.png>)
+![ANSYS battery thermal model setup](<Screenshot 2026-09-08 163523.png>)
 
 **ANSYS model/setup reference — `Screenshot 2026-08-19 082915.png`**
 
@@ -51,7 +51,7 @@ This image documents the ANSYS model and provides visual evidence of the simulat
 
 ### 3. ANSYS Thermal Analysis
 
-![ANSYS transient thermal analysis](<Screenshot 2026-09-08 163523.png>)
+![ANSYS transient thermal analysis](<Screenshot 2026-08-19 082915.png>)
 
 **Transient thermal analysis — `Screenshot 2026-09-08 163523.png`**
 
